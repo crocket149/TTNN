@@ -1,0 +1,25 @@
+/*---------------------------*/
+
+form{
+    border: 2px solid gray;     
+}
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid none;
+    box-sizing: border-box;
+}
+button{
+    background-color: green;
+    color: white;
+    padding: 12px 18px;
+    margin: 8px 0;
+    border: none;
+    width: 100%;
+}
+.container{
+    padding: 16px;
+}
+
